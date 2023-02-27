@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brasil Cultura</title>
+
+</head>
+    <header>
+            <li>Pagina inicial</li>
+            <li>Contato</li>
+            <li>Suporte</li>
+    </header>
+<body>
+    <section id="secao1">
+        <h1>Por que as capivaras são os animai mais legais do mundo</h1> 
+        <h3><br>As capivaras – São animais calmos e mansos; - São mamíferos herbívoros que se destacam por levarem o título de maior roedor do mundo; – São animais territorialistas, ou seja, são animais que defendem áreas que apresentam condições para a sua sobrevivência, como alimentos e local de acasalamento.</h3>
+        <img src="https://pbs.twimg.com/media/ByTcwxAIUAESdve.jpg" width="450" height="400" alt="">
+    </section>
+    
+    <section>
+
+    <h1><br>Qual a importância das capivaras no meio hambiente?</h1>
+    <h3><br>Além da necessidade de escolherem corpos d'água próximos a regiões com abundância de alimentos, constituídos de certos tipos de capim, ervas e determinadas plantas aquáticas. A capivara possui uma elevada fecundidade e fertilidade, tornando-a uma das mais prolíferas entre os animais herbívoros.</h3>
+    <img src="https://www.infoescola.com/wp-content/uploads/2008/05/capivara-104462285.jpg" height="300" alt="">
+    </section>
+
+    <section>
+        <h1><br>Curiosidades sobre a capivara</h1>
+        <h3>
+            <li>O gênero ao qual pertence a capivara (Hydrochoerus) está relacionado com os hábitos desse animal e significa “porco d'água”.</li>
+            <li>O nome popular da capivara possui origem tupi-guarani e significa “comedor de capim”.</li>
+            <li>Algumas capivaras podem atingir até 100 kg</li><br>
+            <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo/capivara-cativeiro.jpg" alt="">
+            <br><br><li>Os dentes incisivos de uma capivara adulta podem ter de 5 cm a 6 cm.</li>
+            <br><li>Muitos autores questionam se as capivaras possuem ou não rabo. Enquanto alguns afirmam que não, outros dizem que esses animais possuem um pequeno rabo encoberto por pelos.</li>
+            <br><li> As patas traseiras da capivara são maiores que as dianteiras.</li>
+            <br><li>A pele da capivara apresenta valor comercial e pode ser usada na indústria de couro.</li>
+            <br><li> Na época da seca, as capivaras podem apresentar grupos de mais de 100 animais.</li>
+            <br><li>As capivaras apresentam relação com uma doença chamada febre maculosa, que pode levar à morte. A relação está no fato de que as capivaras, algumas vezes, apresentam um carrapato chamado carrapato-estrela (Amblyomma cajennense), que é reservatório da bactéria Rickettsia rickettsii, causadora da febre maculosa. O homem, ao ser picado por um carrapato contaminado, pode desenvolver a doença.</li>
+            <br><li>Atualmente, as capivaras estão na categoria “pouco preocupantes” na Lista Vermelha de Espécies Ameaçadas da União Internacional para a Conservação da Natureza e dos Recursos Naturais (IUCN). Isso significa que, na época atual, a espécie não apresentas grandes riscos de entrar em extinção.</li>
+            <br><img src="https://tm.ibxk.com.br/2021/06/18/18130929836150.jpg?ims=1120x420" height="300" alt="">
+        </h3>
+        </section>
+
+    <footer><br>Preserve a fauna e a flora Brasileira</footer>
+</body>
+</html>
